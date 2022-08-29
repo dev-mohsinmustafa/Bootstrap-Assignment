@@ -1,0 +1,20 @@
+.faqs{
+    background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+header#Navbar{
+    z-index: 999;
+}
+.card:hover{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 0.5s;
+}
+footer{
+    height: 40px;
+}
+footer p,a{
+    line-height: 40px;
+}
